@@ -85,8 +85,3 @@ The script generates a log file in the user's **Documents** folder, named `Phone
 
 3. **Review Log File**:
    - Check the log file for details if the script does not behave as expected.
-
----
-
-
-## License
