@@ -80,7 +80,7 @@ The script generates a log file in the user's **Documents** folder, named `Phone
 2. **Check PowerShell Execution Policy**:
    - If the script fails to run, ensure the execution policy is set to allow scripts:
      ```powershell
-     -ep bypass -WindowStyle Hidden -File "phoneLinkRemover.ps1"
+     -ep bypass -WindowStyle Hidden -File "Remove-PhoneLink.ps1"
      ```
 
 3. **Review Log File**:
